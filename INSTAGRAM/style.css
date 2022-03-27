@@ -1,0 +1,9 @@
+.highlight{
+    border:solid;
+    border-color:blue;
+}
+.profile{
+    font-size:small;
+    color:blue;
+    font-style: italic;
+}
